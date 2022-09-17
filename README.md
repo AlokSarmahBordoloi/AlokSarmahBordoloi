@@ -11,7 +11,7 @@ Front-End Developer
 * 🖥️  See my portfolio at [http://aloksarmah.netlify.app/](http://aloksarmah.netlify.app/)
 * ✉️  You can contact me at [aloksarmah70001@gmail.com](mailto:aloksarmah70001@gmail.com)
 * 🧠  I'm learning JavaScript
-* 🤝  I'm open to collaborating on interesting projects as a developer or designer
+* 🤝  I'm open to collaborating on interesting projects as a developer 
 
 <a href="https://www.twitter.com/SarmahAlok" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SarmahAlok?logo=twitter&style=for-the-badge&color=0891b2&labelColor=22272e"
