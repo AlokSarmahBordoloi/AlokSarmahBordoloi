@@ -62,7 +62,6 @@ src="https://img.shields.io/github/followers/AlokSarmahBordoloi?logo=github&styl
 </a>  
 </div>  
   
-### Badges
 
 <b>My GitHub Stats</b>
 
@@ -70,13 +69,7 @@ src="https://img.shields.io/github/followers/AlokSarmahBordoloi?logo=github&styl
 
 <a href="http://www.github.com/AlokSarmahBordoloi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlokSarmahBordoloi&stroke=ffffff&background=22272e&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/AlokSarmahBordoloi"><img src="https://activity-graph.herokuapp.com/graph?username=AlokSarmahBordoloi&bg_color=22272e&color=ffffff&line=0891b2&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/AlokSarmahBordoloi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlokSarmahBordoloi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!-- <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/AlokSarmahBordoloi/Learn-javaScript" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AlokSarmahBordoloi&repo=Learn-javaScript&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ### Support Me
 
