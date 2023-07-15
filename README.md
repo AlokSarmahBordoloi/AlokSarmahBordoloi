@@ -10,7 +10,7 @@ Web Developer
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksarmahbordoloi&label=Profile%20views&color=0e75b6&style=flat" alt="aloksarmahbordoloi" /> </p>
 
 * 🧠  Learning Never Stop 🚀
-* 🖥️  See my portfolio at [http://aloksarmah.netlify.app/](http://aloksarmah.netlify.app/)
+* 🖥️  See my portfolio at [http://aloksarmahbordoloi.netlify.app/](https://aloksarmahbordoloi.netlify.app)
 * ✉️  You can contact me at [aloksarmah70001@gmail.com](mailto:aloksarmah70001@gmail.com) 
 * 🤝  I'm open to collaborating on interesting projects as a developer 
 
