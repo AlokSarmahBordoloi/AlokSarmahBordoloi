@@ -1,5 +1,7 @@
-![banner1](https://user-images.githubusercontent.com/106934852/182024874-e14fcb43-0a72-4b1c-bf1a-4f711c5c63c4.png)
-Hi 👋 I'm Alok Sarmah Bordoloi
+![1711126919821](https://github.com/user-attachments/assets/128093f7-39d6-4eeb-b021-73aead1b957f)
+
+
+Hi 👋 I'm Alok 
 =====================================
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aloksarmahbordoloi&label=Profile%20views&color=0e75b6&style=flat" alt="aloksarmahbordoloi" /> </p>
